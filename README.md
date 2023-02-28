@@ -7,5 +7,7 @@ In this project, the goal was to change all the <div> elements to semantic eleme
 ##Links:
 
 Semantic elements - https://www.w3schools.com/html/html5_semantic_elements.asp
+
 Why we use semantic elements - https://stackoverflow.com/questions/17272019/why-use-an-html5-semantic-tag-instead-of-div
+
 A video that helped me use semantic elements - https://www.youtube.com/watch?v=ZThq93Yuwd0
